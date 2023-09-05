@@ -1,2 +1,2 @@
 # Scripts
-Scripts de tarea
+Los scripts se encuentran en el READ.md
